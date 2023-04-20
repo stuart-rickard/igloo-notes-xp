@@ -1,5 +1,7 @@
 # igloo_notes
 
+[open here](./web/index.html)
+
 A new Flutter project.
 
 ## Getting Started
